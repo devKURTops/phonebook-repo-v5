@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  phonebook-chart:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-04-15T12:10:05.679748982Z"
+    description: A Helm chart for Phonebook Project
+    digest: 3e2fd679d3fc5eb3bec9062c28ae46966eaa568e4c33a657520766dcc881f631
+    name: phonebook-chart
+    type: application
+    urls:
+    - phonebook-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-15T12:10:05.679117073Z"
